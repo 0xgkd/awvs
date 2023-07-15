@@ -14,4 +14,5 @@
 - 感谢Fahai和Pwn3rsz等开源爱好者的无私奉献
 - 仅供学习研究使用
 # Image Size:
-![size](https://github.com/0xgkd/awvs/blob/main/image.jpg)
+![image](https://github.com/0xgkd/awvs/blob/main/image.jpg)
+![size](https://github.com/0xgkd/awvs/blob/main/size.jpg)
