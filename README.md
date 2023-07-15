@@ -13,3 +13,5 @@
 - 尝试使用过dockerfile一键制作，但哪怕刻意优化镜像大小，依然要比手动大出不少
 - 感谢Fahai和Pwn3rsz等开源爱好者的无私奉献
 - 仅供学习研究使用
+# Image Size:
+![size](https://github.com/0xgkd/awvs/blob/main/image.jpg)
