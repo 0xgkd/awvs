@@ -1,6 +1,6 @@
 # Docker AWVS
 基于Pwn3rzs license和Ubuntu 18.04手动制作的docker awvs版本
-# Latest version: AWVS v24.1.240111130
+# Latest version: AWVS v24.2.240226074
 # Usage:
 - docker pull 0xgkd/awvs
 - docker run -it -d -p 13443:3443 0xgkd/awvs
@@ -8,6 +8,7 @@
 - username: admin@gkd.com
 - password: Oxgkd123
 # Update:
+- 2024.04.09 - AWVS v24.2.240226074
 - 2024.03.01 - AWVS v24.1.240111130(8c152dacb50f)
 
 - **~~2024.02.29 - AWVS v24.1.240111130~~**
