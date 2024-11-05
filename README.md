@@ -1,7 +1,7 @@
-![Version](https://img.shields.io/badge/Version-V24.8.240828144-red)
+![Version](https://img.shields.io/badge/Version-V24.9.241015145-red)
 # Docker AWVS
 基于Pwn3rzs license和Ubuntu 18.04手动制作的docker awvs版本
-# Latest version: AWVS v24.8.240828144
+# Latest version: AWVS v24.9.241015145
 # Usage:
 - docker pull 0xgkd/awvs
 - docker run -it -d -p 13443:3443 0xgkd/awvs
@@ -9,6 +9,7 @@
 - username: admin@gkd.com
 - password: Oxgkd123
 # Update:
+- 2024.11.05 - AWVS v24.9.241015145
 - 2024.09.09 - AWVS v24.8.240828144
 - 2024.07.15 - AWVS v24.6.240626115
 - 2024.06.16 - AWVS v24.4.240514098
@@ -27,6 +28,7 @@
 - 2023.08.25 - AWVS v23.7.230728157
 - 2023.07.15 - AWVS v23.6.230628115
 # Engine Update:
+- 2024.11.05 - Engine v24.9.241015145
 - 2024.10.16 - Engine v24.8.240828144
 # Feature:
 ## Enable Multi-Engine
