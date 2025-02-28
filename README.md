@@ -1,7 +1,7 @@
-![Version](https://img.shields.io/badge/Version-V24.10.241106172-red)
+![Version](https://img.shields.io/badge/Version-V25.1.250204093-red)
 # Docker AWVS
 Docker awvs version manually created based on Pwn3rzs license and Ubuntu 18.04
-# Latest version: AWVS v24.10.241106172
+# Latest version: AWVS v25.1.250204093
 # Usage:
 - docker pull 0xgkd/awvs
 - docker run -it -d -p 13443:3443 0xgkd/awvs
@@ -9,6 +9,7 @@ Docker awvs version manually created based on Pwn3rzs license and Ubuntu 18.04
 - username: admin@gkd.com
 - password: Oxgkd123
 # Update:
+- 2025.02.28 - AWVS v25.1.250204093
 - 2024.11.28 - AWVS v24.10.241106172
 - 2024.11.05 - AWVS v24.9.241015145
 - 2024.09.09 - AWVS v24.8.240828144
@@ -28,6 +29,7 @@ Docker awvs version manually created based on Pwn3rzs license and Ubuntu 18.04
 - 2023.08.25 - AWVS v23.7.230728157
 - 2023.07.15 - AWVS v23.6.230628115
 # Engine Update:
+- 2025.02.28 - Engine v25.1.250204093
 - 2024.11.28 - Engine v24.10.241106172
 - 2024.11.05 - Engine v24.9.241015145
 - 2024.10.16 - Engine v24.8.240828144
